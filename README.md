@@ -1,11 +1,7 @@
 # hello-world
 A repository to store ideas
 
-To start with GitHub, I need to understand more and make some projects to train my ability skills.
+To start with GitHub, I need to understand more and make some projects to train my programming skills.
 Now, let's get started
 
-Test 1
-
-Teste 2
-
-Test 3
+Onlu keep Test 3
